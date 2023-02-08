@@ -8,7 +8,7 @@ namespace POOConcepts
 {
     public class Date
     {
-        //atributo privado
+        //atributo privado. campo
         private int _year;
         private int _month;
         private int _day;
